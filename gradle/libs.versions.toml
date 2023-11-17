@@ -1,2 +1,5 @@
+[versions]
+javafx = "21.0.1"
+
 [plugins]
 javafxplugin = { id = "org.openjfx.javafxplugin", version = "0.1.0" }

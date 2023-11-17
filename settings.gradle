@@ -6,12 +6,3 @@
  */
 
 rootProject.name = 'playerfield'
-
-dependencyResolutionManagement {
-    versionCatalogs {
-        libs {
-            plugin('javafx', 'org.openjfx.javafxplugin').version('0.1.0')
-        }
-    }
-}
-

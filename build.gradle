@@ -7,7 +7,7 @@
 
 plugins {
   id 'application'
-  alias(libs.plugins.javafx)
+  alias(libs.plugins.javafxplugin)
 }
 
 repositories {

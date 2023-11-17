@@ -30,4 +30,6 @@ replay_pid*
 build
 
 .project
+.classpath
 .settings
+/bin/

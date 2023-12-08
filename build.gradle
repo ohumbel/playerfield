@@ -13,4 +13,7 @@ javafx {
     modules = [ 'javafx.controls' ]
 }
 
-mainClassName = 'playerfield.hello.HelloFX'
+
+application {
+    mainClass = 'playerfield.hello.HelloFX'
+}

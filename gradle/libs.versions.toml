@@ -3,4 +3,4 @@ javafx = "21.0.1"
 
 [plugins]
 javafxplugin = { id = "org.openjfx.javafxplugin", version = "0.1.0" }
-jreleaser = { id = "org.jreleaser", version = "1.17.0" }
+jreleaser = { id = "org.jreleaser", version = "1.18.0" }
